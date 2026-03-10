@@ -6,6 +6,8 @@
 </head>
 <body>
     <h2>Login Successful</h2>
+    <h2>Login Successful</h2>
+    <h2>Login Successful</h2>
     <p>Welcome, <%= request.getAttribute("username") %>!</p>
 </body>
 </html>
